@@ -9,7 +9,7 @@
 
 #
 
-![Isabel ´s GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelyasmin5&show_icons=true&theme=dracula&count_private=true)
+![Isabel ´s GitHub status](https://github-readme-stats.vercel.app/api?username=isabelyasmin5&show_icons=true&theme=dracula&count_private=true)
 
 #
 
