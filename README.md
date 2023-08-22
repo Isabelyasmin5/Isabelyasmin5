@@ -1,7 +1,8 @@
 ## Olá! Eu sou a Isabel Yasmin  💜
 
 
-#Outras redes socias em que você pode me encontrar 
+## Outras redes socias em que você pode me encontrar 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabel-yasmin-silva/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
